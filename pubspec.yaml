@@ -1,7 +1,7 @@
 name: insta_profile_page
-description: "Description here"
+description: "insta style profile page by june"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/insta_profile_page
 
 version: 1.0.0+1
 
